@@ -1,0 +1,36 @@
+# Data collection
+PyGitHub==2.3.0
+requests==2.31.0
+
+# Data handling
+pandas==2.2.1
+numpy==1.26.4
+
+# Graph analysis
+networkx==3.3
+scipy==1.13.0
+
+# Association rule mining
+mlxtend==0.23.1
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+pyvis==0.3.2
+wordcloud==1.9.3
+
+# BERT / Deep learning
+torch==2.3.0
+transformers==4.40.1
+datasets==2.19.1
+scikit-learn==1.4.2
+accelerate==0.29.3
+
+# Experiment tracking
+wandb==0.17.0
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.4
+jupyterlab==4.1.8
